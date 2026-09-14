@@ -1,5 +1,14 @@
 # Changelog
 
+## [25.11.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.11.0...puppeteer-core-v25.11.1) (2026-09-14)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @puppeteer/browsers bumped from 3.2.2 to 3.2.3
+
 ## [25.11.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.10.0...puppeteer-core-v25.11.0) (2026-09-13)
 
 
